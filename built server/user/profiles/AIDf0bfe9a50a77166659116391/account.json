@@ -1,0 +1,14 @@
+{
+	"id": "AIDf0bfe9a50a77166659116391",
+	"email": "Dev",
+	"password": "1234",
+	"wipe": false,
+	"edition": "Edge Of Darkness",
+	"lang": "/client/menu/locale/en",
+	"friends": [],
+	"Matching": {
+		"LookingForGroup": false
+	},
+	"friendRequestInbox": [],
+	"friendRequestOutbox": []
+}

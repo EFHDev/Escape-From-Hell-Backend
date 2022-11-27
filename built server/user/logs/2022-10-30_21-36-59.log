@@ -1,0 +1,77 @@
+ !-Profile file for session ID AID8ea6bd3379cc166717919369 not found.
+ !-Tried to load session AIDc8b5746ce933166711661018 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDc8b5746ce933166711661018 successfully.
+ .-[32;1mGenerated: 1 bots. (8ms)
+ .-Loaded profile for AID AIDc8b5746ce933166711661018 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AIDc8b5746ce933166711661018 Successful
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/WebSocketAddress
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AIDc8b5746ce933166711661018::GET::/getBundleList
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/start
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/menu/locale/en
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/version/validate
+ .-User AIDc8b5746ce933166711661018 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/languages
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/config
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/items
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/customization
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/globals
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/list
+ .-Updating Health for: AIDc8b5746ce933166711661018 [Health:8472.533333333333/min (Infinity/BodyPart)] [Energy:1059.0666666666666/min] [Hydration:1059.0666666666666/min]
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/select
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/en
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/weather
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locations
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/templates
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/areas
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/notifier/channel/create
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/mail/dialog/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/customization/storage
+ .-WebSocket Client connected AIDc8b5746ce933166711661018
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/server/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/quest/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/59b91ca086f77469a81232e4.png
+ .-[IMG.avatar]: /files/trader/avatar/59b91ca086f77469a81232e4.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/59b91cab86f77469aa5343ca.png
+ .-[IMG.avatar]: /files/trader/avatar/59b91cab86f77469aa5343ca.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/59b91cb486f77469a81232e5.png
+ .-[IMG.avatar]: /files/trader/avatar/59b91cb486f77469a81232e5.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/59b91cbd86f77469aa5343cb.png
+ .-[IMG.avatar]: /files/trader/avatar/59b91cbd86f77469aa5343cb.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/5a7c2ebb86f7746e324a06ab.png
+ .-[IMG.avatar]: /files/trader/avatar/5a7c2ebb86f7746e324a06ab.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/5ac3b86a86f77461491d1ad8.png
+ .-[IMG.avatar]: /files/trader/avatar/5ac3b86a86f77461491d1ad8.png
+ .-127.0.0.1::undefined::GET::/files/trader/avatar/5c06531a86f7746319710e1b.png
+ .-[IMG.avatar]: /files/trader/avatar/5c06531a86f7746319710e1b.png
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/checkVersion
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/getUserAssortPrice/trader/54cb57776803fa99248b456e
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+ .-127.0.0.1::AIDc8b5746ce933166711661018::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/keepalive
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/match/offline/start
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/location/getLocalloot
+ .-Forced Loot Count: 7

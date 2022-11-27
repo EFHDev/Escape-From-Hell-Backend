@@ -1,0 +1,54 @@
+ !-Profile file for session ID AID8ea6bd3379cc166717919369 not found.
+ !-Tried to load session AIDc8b5746ce933166711661018 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDc8b5746ce933166711661018 successfully.
+ .-[32;1mGenerated: 1 bots. (9ms)
+ .-Loaded profile for AID AIDc8b5746ce933166711661018 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AIDc8b5746ce933166711661018 Successful
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/WebSocketAddress
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AIDc8b5746ce933166711661018::GET::/getBundleList
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/start
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/menu/locale/en
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/version/validate
+ .-User AIDc8b5746ce933166711661018 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/languages
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/config
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/items
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/customization
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/globals
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/list
+ .-Updating Health for: AIDc8b5746ce933166711661018 [Health:18392.133333333335/min (Infinity/BodyPart)] [Energy:2299.016666666667/min] [Hydration:2299.016666666667/min]
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/select
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/en
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locations
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/weather
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/templates
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/areas
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/notifier/channel/create
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/mail/dialog/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/customization/storage
+ .-WebSocket Client connected AIDc8b5746ce933166711661018
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/server/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/quest/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/checkVersion
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/ragfair/find
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/logout
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-AIDc8b5746ce933166711661018 has been released from memory.

@@ -1,0 +1,246 @@
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 1 bots. (10ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 1 bots. (6ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 1 bots. (5ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/WebSocketAddress
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/getBundleList
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/menu/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/version/validate
+ .-User AID7806d4ac2df6166659606725 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/languages
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/config
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:67.86666666666666/min (Infinity/BodyPart)] [Energy:8.483333333333333/min] [Hydration:8.483333333333333/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 3978d6a6c0e0166725759044
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: a00d237dd8a8166725759580
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: b00a62ac0b99166725759996
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 38d8f6244f22166725760505
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 7ff90e808111166725760885
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: f39b29f2355d166725761256
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Selling: 5101405065cb166725761256
+ .-Selling: fe16be67bcf3166725761256
+ .-Selling: 9e53167fc6ff166725761256
+ .-Selling: 5d036c5b7501166725761256
+ .-Selling: 52af060fcd5c166725761256
+ .-Selling: 975be5b7310b166725761256
+ .-Selling: 8d787f52e24a166725761256
+ .-Selling: 56324c53f8c3166725760505
+ .-Selling: 8e465352c858166725760505
+ .-Selling: 3a4cd0a39a16166725760505
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Selling: b6471935fb76166725759580
+ .-Selling: c56705e287b4166725759580
+ .-Selling: 0670347e38b3166725759580
+ .-Selling: 2c2339abf06a166725759996
+ .-Selling: 497fdbc7bcad166725759044
+ .-Selling: 148669f1d301166725759044
+ .-Selling: bee124915813166725759996
+ .-Selling: 704369690685219743690685
+ .-Selling: 915e5e6ac9b8166725759996
+ .-Selling: dca534242f49166725759580
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Selling: 965a1e89a9db166725760885
+ .-Selling: a328fc54c732166725760885
+ .-Selling: 43a2b335c624166725760885
+ .-Selling: cd3cba880b8f166725760885
+ .-Selling: 4827d08d6d64166725760885
+ .-Selling: cee5f6e23b4d166725759996
+ .-Selling: 7418b98a07f7166725759996
+ .-Selling: 58b896f5d801166725759580
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 23f9f5c90169166725771640
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 756914298b87166725778397
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.

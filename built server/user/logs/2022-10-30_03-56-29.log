@@ -1,0 +1,101 @@
+ .-Generated self-signed sha256/2048 certificate e2:66:23:03:5b:26:ff:78:ad:6e:24:9b:4e:d1:c5:53:1b:4c:c2:3f, valid 365 days
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-127.0.0.1::undefined::POST::/launcher/profile/register
+ .-Registering New account AIDc8b5746ce933166711661018.
+ .-New account AIDc8b5746ce933166711661018 has been registered.
+ !-Profile file for session ID AIDc8b5746ce933166711661018 not found.
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AIDc8b5746ce933166711661018 Successful
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/WebSocketAddress
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AIDc8b5746ce933166711661018::GET::/getBundleList
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/start
+ .-New account AIDc8b5746ce933166711661018 logged in!
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/menu/locale/en
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/version/validate
+ .-User AIDc8b5746ce933166711661018 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/languages
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/config
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/items
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/customization
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/globals
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/account/customization
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/en
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/ru
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/ge
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locale/fr
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/nickname/reserved
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/nickname/validate
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/create
+ .-[32;1mGenerated: 1 bots. (14ms)
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/select
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/locations
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/weather
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/templates
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/areas
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/settings
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/notifier/channel/create
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/mail/dialog/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/profile/status
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/trading/customization/storage
+ .-WebSocket Client connected AIDc8b5746ce933166711661018
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/server/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/quest/list
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/checkVersion
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/profile/items/moving
+ .-AIDc8b5746ce933166711661018 Account was saved.
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/game/keepalive
+ .-AIDc8b5746ce933166711661018 Profile was saved.
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/match/offline/start
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/location/getLocalloot
+ !-TypeError: Cannot read properties of undefined (reading '_props')
+ .-127.0.0.1::AIDc8b5746ce933166711661018::POST::/client/location/getLocalloot?retry=1
+ !-TypeError: Cannot read properties of undefined (reading '_props')

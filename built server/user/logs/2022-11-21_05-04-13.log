@@ -1,0 +1,448 @@
+ .-Fischer - Aki mod: Load succeeded
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ .-[32;1mGenerated: 1 bots. (7ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ .-[32;1mGenerated: 1 bots. (5ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-[32;1mGenerated: 1 bots. (6ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/WebSocketAddress
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/getBundleList
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/items/mods/silencers/silencer_glock_fischer_development_fd917_9x19.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/useable_items/item_schlagger/item_schlagger_container.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/rhino/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/rhino/textures/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/useable_items/item_schlagger/item_schlagger_loot.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/menu/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/version/validate
+ .-User AID7806d4ac2df6166659606725 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/languages
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/config
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:1178.9333333333334/min (Infinity/BodyPart)] [Energy:147.36666666666667/min] [Hydration:147.36666666666667/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/location/getLocalloot
+ .-Forced Loot Count: 2
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/pmcBot/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossGluhar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/test/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantWarrior/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantPriest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/exUsec/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/gifter/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKnight/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBigPipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBirdEye/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 37 bots. (256ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/raid/profile/save
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/end
+ .-WebSocket Client connected 656476ca1400166902572719
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/WebSocketAddress
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/getBundleList
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/items/mods/silencers/silencer_glock_fischer_development_fd917_9x19.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/useable_items/item_schlagger/item_schlagger_container.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/rhino/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/rhino/textures/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/useable_items/item_schlagger/item_schlagger_loot.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/menu/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/version/validate
+ .-User AID7806d4ac2df6166659606725 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/languages
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/config
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:51.333333333333336/min (51.333333333333336/BodyPart)] [Energy:6.416666666666667/min] [Hydration:6.416666666666667/min]
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-WebSocket Client connected 7c420ee32acb166902617101
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/location/getLocalloot
+ .-Forced Loot Count: 2
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/pmcBot/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossGluhar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/test/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantWarrior/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantPriest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/exUsec/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/gifter/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKnight/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBigPipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBirdEye/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 37 bots. (561ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/end
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/raid/profile/save
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-WebSocket Client connected 4a69f2d8365d166902644639
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 463570f5e8fd166902660358
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/logout
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-AID7806d4ac2df6166659606725 has been released from memory.
