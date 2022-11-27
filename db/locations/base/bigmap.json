@@ -369,7 +369,7 @@
     }
   ],
   "BotLocationModifier": {
-    "AccuracySpeed": 0.65,
+    "AccuracySpeed": 1,
     "Scattering": 1,
     "GainSight": 1,
     "MarksmanAccuratyCoef": 1,

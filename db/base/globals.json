@@ -9886,6 +9886,74 @@
       ],
       "_encyclopedia": "5447a9cd4bdc2dbd208b4567"
     },
+    "vss15newshi": {
+      "_id": "vss15newshi",
+      "_type": "Preset",
+      "_changeWeaponName": false,
+      "_name": "VSS15_Std",
+      "_parent": "5af08cf886f774223c269191",
+      "_items": [
+        {
+          "_id": "5af08cf886f774223c269191",
+          "_tpl": "paulovarmory_vss-15"
+        },
+        {
+          "_id": "5af08cf886f774223c269192",
+          "_tpl": "55d4b9964bdc2d1d4e8b456e",
+          "parentId": "5af08cf886f774223c269191",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "5af08cf886f774223c269193",
+          "_tpl": "vss15_stanag_30",
+          "parentId": "5af08cf886f774223c269191",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "5af08cf886f774223c269194",
+          "_tpl": "vss15ur",
+          "parentId": "5af08cf886f774223c269191",
+          "slotId": "mod_reciever"
+        },
+        {
+          "_id": "5af08cf886f774223c269195",
+          "_tpl": "vss15barr",
+          "parentId": "5af08cf886f774223c269194",
+          "slotId": "mod_barrel"
+        },
+        {
+          "_id": "5af08cf886f774223c269198",
+          "_tpl": "5d123102d7ad1a004e475fe5",
+          "parentId": "5af08cf886f774223c269194",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "5af08cf886f774223c269199",
+          "_tpl": "5fc0fa957283c4046c58147e",
+          "parentId": "5af08cf886f774223c269194",
+          "slotId": "mod_sight_rear"
+        },
+        {
+          "_id": "5ebbfe23ba87a5065a00a571",
+          "_tpl": "5fc0fa362770a0045c59c677",
+          "parentId": "5ebbfe23ba87a5065a00a56f",
+          "slotId": "mod_sight_front"
+        },
+        {
+          "_id": "5af08cf886f774223c26919a",
+          "_tpl": "5649be884bdc2d79388b4577",
+          "parentId": "5af08cf886f774223c269191",
+          "slotId": "mod_stock"
+        },
+        {
+          "_id": "5af08cf886f774223c26919c",
+          "_tpl": "55d44fd14bdc2d962f8b456e",
+          "parentId": "5af08cf886f774223c269191",
+          "slotId": "mod_charge"
+        }
+      ],
+      "_encyclopedia": "paulovarmory_vss-15"
+    },
     "5ebbfe23ba87a5065a00a563": {
       "_id": "5ebbfe23ba87a5065a00a563",
       "_type": "Preset",

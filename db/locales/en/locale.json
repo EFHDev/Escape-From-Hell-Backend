@@ -19939,6 +19939,41 @@
       "ShortName": "TX15 LW",
       "Description": "An upper receiver for the TX-15 rifle, manufactured by Lone Star. Equipped with a mount for attaching additional devices."
     },
+    "vss15_stanag_30": {
+      "Name": "Stanag AR-15 9x39 18 round magazine",
+      "ShortName": "9x39 18rnd mag",
+      "Description": "Produced in america, The 9x39 Stanag mag eats ass."
+    },
+    "paulovarmory_vss-15": {
+      "Name": "Paulov Armory VSS-15 9x39 Assault Rifle",
+      "ShortName": "VSS-15",
+      "Description": "VSS-15 is a Scottish copy of the VSS Vintorez in AR-15 style pattern. Built in the 1980's it became common in the scottish national guard, for its accrucy and range, Plus being quiet."
+    },
+    "Medpouch": {
+      "Name": "RU-Army Medpouch",
+      "ShortName": "Medpouch",
+      "Description": "A simple bag that attaches to the shoulder of medical staff on the field."
+    },
+    "fleakey": {
+      "Name": "plt_armr's Blackmarket flea key",
+      "ShortName": "FL31",
+      "Description": "Made by Plt_armr"
+    },
+    "sunset_armory_12g_ar15": {
+      "Name": "Sunset Armory AR-12 Assault Shotgun",
+      "ShortName": "SSA AR-12 A-Shotgun ",
+      "Description": "Sunset Armory's AR-12 is a AR-15 based shotgun chambered in 12 gauge, featuring all features of the AR-15, It can do alot of damage, But it gains heat quickly."
+    },
+    "vss15barr": {
+      "Name": "Paulov Armory VSS-15 9x39 Assault Rifle",
+      "ShortName": "VSS-15",
+      "Description": "VSS-15 is a Scottish copy of the VSS Vintorez in AR-15 style pattern. Built in the 1980's it became common in the scottish national guard, for its accrucy and range, Plus being quiet."
+    },
+    "vss15ur": {
+      "Name": "VSS-15 Upper Reciever",
+      "ShortName": "VSS-15 UR",
+      "Description": "VSS-15 is a Scottish copy of the VSS Vintorez in AR-15 style pattern. Built in the 1980's it became common in the scottish national guard, for its accrucy and range, Plus being quiet."
+    },
     "5d4405f0a4b9361e6a4e6bd9": {
       "Name": "AR-15 Lone Star Ion Lite handguard",
       "ShortName": "Ion Lite",
@@ -25281,6 +25316,11 @@
       "Name": "Hockey player mask \"Quiet\"",
       "ShortName": "Quiet",
       "Description": "Frightening mask from a children's cartoon about hockey."
+    },
+    "BlankKeycard": {
+      "Name": "Blank Terragroup Keycard",
+      "ShortName": "Blank Keycard",
+      "Description": "A blank keycard produced by Terragroup, requires a key and RFID Key encoder to encrypt data onto it,"
     },
     "62a61bbf8ec41a51b34758d2": {
       "Name": "Big Pipe's smoking pipe",
