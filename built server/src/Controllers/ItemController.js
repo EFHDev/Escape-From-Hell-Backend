@@ -11,6 +11,7 @@ class ItemController
     static instance = new ItemController();
 
     constructor() {
+
         const presets = Object.values(global._database.globals.ItemPresets);
         const reverse = {};
 
