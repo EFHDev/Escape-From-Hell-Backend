@@ -1,0 +1,330 @@
+ .-EFH-Weapons - Aki mod: Load succeeded
+ !-spt-local-db-website - Aki mod: Load failed with message "Error: Cannot find module 'C:\Users\armyo\OneDrive\Documents\GitHub\Escape-From-Hell-Backend\built server/user/mods/spt-local-db-website/src/mod.js'
+Require stack:
+- C:\snapshot\Tarkov-Server\src\AkiModSupport\AkiModLoader.js
+- C:\snapshot\Tarkov-Server\core\server\mods.js
+- C:\snapshot\Tarkov-Server\core\initializer.js
+- C:\snapshot\Tarkov-Server\core\main.js
+- C:\snapshot\Tarkov-Server\bin\www.js"
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 1 bots. (11ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 1 bots. (6ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 1 bots. (5ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/WebSocketAddress
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/getBundleList
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/textures/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/items/equipment/armor_improvised/item_equipment_armor_trooper.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/weapon_chiappa_rhino_50ds_9x33r_container.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/menu/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/version/validate
+ .-User AID7806d4ac2df6166659606725 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/languages
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/config
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:485.8666666666667/min (Infinity/BodyPart)] [Energy:60.733333333333334/min] [Hydration:60.733333333333334/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 5d0d2469f116167004672607
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: a3600b0933eb167004673808
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 042989294c2f167004674676
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 660735ff24c3167004675343
+ .-Items taken. Status OK.
+ .-Bought item: 25d3061fa8ed167004675345
+ .-Items taken. Status OK.
+ .-Bought item: 66d578c3442b167004675347
+ .-Items taken. Status OK.
+ .-Bought item: 16febe096e36167004675348
+ .-Items taken. Status OK.
+ .-Bought item: acf65dfb6955167004675350
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: bd0a298eee38167004676036
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: f9a70fb92bab167004676171
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 97802ea3a2ae167004676243
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 17a54e264621167004676305
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ !-file not found with id: 5cf5e9f402153a196f20e270
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 51bcaec1f6bb167004683730
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 3e7c4377b292167004686685
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: a1689e19ce2d167004693950
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: d6243d6de4b9167004699074
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: ffd57065a703167004699454
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 0a7ad3cad85e167004707872
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: ae91633c95f5167004713258
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: bb485c7477b3167004715011
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:578.2666666666667/min (Infinity/BodyPart)] [Energy:72.28333333333333/min] [Hydration:72.28333333333333/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-WebSocket Client connected 0ce8144fb4dd167004726284
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive

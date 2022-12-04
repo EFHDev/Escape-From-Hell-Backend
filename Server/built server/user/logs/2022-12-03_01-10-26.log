@@ -1,0 +1,109 @@
+ .-EFH-Weapons - Aki mod: Load succeeded
+ !-spt-local-db-website - Aki mod: Load failed with message "Error: Cannot find module 'C:\Users\armyo\OneDrive\Documents\GitHub\Escape-From-Hell-Backend\built server/user/mods/spt-local-db-website/src/mod.js'
+Require stack:
+- C:\snapshot\Tarkov-Server\src\AkiModSupport\AkiModLoader.js
+- C:\snapshot\Tarkov-Server\core\server\mods.js
+- C:\snapshot\Tarkov-Server\core\initializer.js
+- C:\snapshot\Tarkov-Server\core\main.js
+- C:\snapshot\Tarkov-Server\bin\www.js"
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 1 bots. (10ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 1 bots. (6ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-[32;1mGenerated: 1 bots. (3ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::undefined::POST::/launcher/profile/login
+ .-Login AID7806d4ac2df6166659606725 Successful
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/WebSocketAddress
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed/showMessage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/getBundleList
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/textures/client_assets.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/items/equipment/armor_improvised/item_equipment_armor_trooper.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/files/bundle/assets/content/weapons/taurus44/white/weapon_chiappa_rhino_50ds_9x33r_container.bundle
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/menu/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/version/validate
+ .-User AID7806d4ac2df6166659606725 connected with client version 0.12.12.31.19428
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/languages
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/config
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:694.4/min (Infinity/BodyPart)] [Energy:86.8/min] [Hydration:86.8/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locale/en
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:711.6/min (Infinity/BodyPart)] [Energy:88.95/min] [Hydration:88.95/min]
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-WebSocket Client connected 83715a663bb9167004826323
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive

@@ -1,0 +1,1287 @@
+ .-EFH-Weapons - Aki mod: Load succeeded
+ !-spt-local-db-website - Aki mod: Load failed with message "Error: Cannot find module 'C:\Users\armyo\OneDrive\Documents\GitHub\Escape-From-Hell-Backend\built server/user/mods/spt-local-db-website/src/mod.js'
+Require stack:
+- C:\snapshot\Tarkov-Server\src\AkiModSupport\AkiModLoader.js
+- C:\snapshot\Tarkov-Server\core\server\mods.js
+- C:\snapshot\Tarkov-Server\core\initializer.js
+- C:\snapshot\Tarkov-Server\core\main.js
+- C:\snapshot\Tarkov-Server\bin\www.js"
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ .-[32;1mGenerated: 1 bots. (9ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ .-[32;1mGenerated: 1 bots. (5ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-[32;1mGenerated: 1 bots. (7ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: bf6d80123e9b167003979413
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=1
+ !-TypeError: Cannot read properties of undefined (reading 'assort')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 2d9c563b7a42167003984412
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=2
+ !-TypeError: Cannot read properties of undefined (reading 'assort')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 0dc0ba6ff2ad167003986237
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: e69a195886aa167003988752
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ !-file not found with id: 5cf5e9f402153a196f20e270
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=3
+ !-TypeError: Cannot read properties of undefined (reading 'assort')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 92cb1823e599167003992949
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 16b8d47b3437167003994808
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 66cb11a28f10167003995062
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: a5408bd68ded167003995669
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 9db46d1f085b167004008451
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ !-file not found with id: 5cf5e9f402153a196f20e270
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 84b0481dd11a167004015719
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: bfc4ca64cc63167004021674
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 2d09fc132707167004055923
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=1
+ !-TypeError: Cannot read properties of undefined (reading 'assort')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/location/getLocalloot
+ .-Forced Loot Count: 2
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=2
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/marksman/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/assault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBully/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/pmcBot/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/easy
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/hard
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/cursedAssault/impossible
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossGluhar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossSanitar/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/test/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantWarrior/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/sectantPriest/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerTagilla/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/exUsec/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/gifter/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/bossKnight/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBigPipe/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/bot/difficulty/followerBirdEye/normal
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 30 bots. (635ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 28 bots. (378ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (24ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (63ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (36ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (30ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (22ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (73ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (164ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571?retry=3
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (44ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (25ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (50ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (31ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (26ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (36ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (39ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (30ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (24ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (51ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (28ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (20ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (238ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (50ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (29ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (26ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (43ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (76ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (71ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (64ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (85ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (26ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (40ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (46ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (65ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/end
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/raid/profile/save
+ .-Quest conditions cleaned (0ms).
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-WebSocket Client connected d98491fd8226167004117929
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 462a38fed02d167004159049
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ !-file not found with id: 5cf5e9f402153a196f20e270
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: f5246f320607167004169292
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 46e441d8dba9167004172093
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: f1a18845f78f167004174098
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 22dc99fbbf0c167004174307
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 6b8d6174da42167004174954
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ !-TypeError: Cannot read properties of undefined (reading 'IsUnbuyable')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find?retry=1
+ !-TypeError: Cannot read properties of undefined (reading 'Name')
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: 808cf07992ad167004192731
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/ragfair/find
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-Bought item: f7d2a80ab79d167004194609
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-Updating Health for: AID7806d4ac2df6166659606725 [Health:154/min (38.5/BodyPart)] [Energy:19.25/min] [Hydration:19.25/min]
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-WebSocket Client connected c425d1418777167004236850
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::GET::/singleplayer/settings/raid/menu
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/location/getLocalloot
+ .-Forced Loot Count: 2
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/start
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 30 bots. (242ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 28 bots. (157ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (33ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (21ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (88ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (69ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (133ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (26ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (22ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (31ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (28ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (34ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (22ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (17ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (27ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/keepalive
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (41ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (38ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ .-[32;1mGenerated: 5 bots. (20ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (16ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (17ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (16ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (21ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (46ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (38ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ .-[32;1mGenerated: 5 bots. (24ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (18ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ !-Required slot 'mod_barrel' on 61f7c9e189e6fb1a5e3ea78d was empty
+ !-Weapon 61f7c9e189e6fb1a5e3ea78d was generated incorrectly, see error above
+ !-Could not locate ammo to use for 61f7c9e189e6fb1a5e3ea78d, falling back to default -> 5e023d34e8a400319a28ed44
+ !-Generated weapon with tpl 61f7c9e189e6fb1a5e3ea78d had no magazine
+ .-[32;1mGenerated: 5 bots. (31ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ !-Required slot 'mod_gas_block' on 5c501a4d2e221602b412b540 was empty
+ !-Weapon 5c501a4d2e221602b412b540 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5c501a4d2e221602b412b540, falling back to default -> 5e023e53d4353e3302577c4c
+ !-Magazine with tpl 5c503ac82e221602b21d6e9a had no ammo
+ .-[32;1mGenerated: 5 bots. (33ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/bot/generate
+ !-Required slot 'mod_magazine' on 60db29ce99594040e04c4a27 was empty
+ !-Weapon 60db29ce99594040e04c4a27 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 60db29ce99594040e04c4a27, falling back to default -> 560d5e524bdc2d25448b4571
+ !-Magazine with tpl 60dc519adf4c47305f6d410d had no ammo
+ !-Required slot 'mod_stock' on 5ae08f0a5acfc408fb1398a1 was empty
+ !-Weapon 5ae08f0a5acfc408fb1398a1 was generated incorrectly, see error above
+ !-Could not locate ammo to use for 5ae08f0a5acfc408fb1398a1, falling back to default -> 5887431f2459777e1612938f
+ !-Magazine with tpl 5ae0973a5acfc4001562206c had no ammo
+ .-[32;1mGenerated: 5 bots. (19ms)
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/raid/person/killed
+ .-Profile for AID AID7806d4ac2df6166659606725 was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/match/offline/end
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/raid/profile/save
+ .-Quest conditions cleaned (0ms).
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-WebSocket Client connected 9e7136be8fd7167004289579
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/items/moving
+ .-Items taken. Status OK.
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/items
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/customization
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/globals
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/api/traderSettings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/profile/select
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/weather
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/locations
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/templates
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/areas
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/settings
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/hideout/production/scavcase/recipes
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/handbook/builds/my/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/notifier/channel/create
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/mail/dialog/list
+ .-WebSocket Client connected AID7806d4ac2df6166659606725
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/outbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/friend/request/list/inbox
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/trading/customization/storage
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/profile/status
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/server/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/quest/list
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/repeatalbeQuests/activityPeriods
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/checkVersion
+ .-127.0.0.1::AID7806d4ac2df6166659606725::POST::/client/game/logout
+ .-AID7806d4ac2df6166659606725 Account was saved.
+ .-AID7806d4ac2df6166659606725 Profile was saved.
+ .-AID7806d4ac2df6166659606725 has been released from memory.

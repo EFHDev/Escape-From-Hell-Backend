@@ -1,0 +1,22 @@
+ .-EFH-Weapons - Aki mod: Load succeeded
+ !-spt-local-db-website - Aki mod: Load failed with message "Error: Cannot find module 'C:\Users\armyo\OneDrive\Documents\GitHub\Escape-From-Hell-Backend\built server/user/mods/spt-local-db-website/src/mod.js'
+Require stack:
+- C:\snapshot\Tarkov-Server\src\AkiModSupport\AkiModLoader.js
+- C:\snapshot\Tarkov-Server\core\server\mods.js
+- C:\snapshot\Tarkov-Server\core\initializer.js
+- C:\snapshot\Tarkov-Server\core\main.js
+- C:\snapshot\Tarkov-Server\bin\www.js"
+ !-Tried to load session AID7806d4ac2df6166659606725 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AID7806d4ac2df6166659606725 successfully.
+ .-[32;1mGenerated: 1 bots. (10ms)
+ .-Loaded profile for AID AID7806d4ac2df6166659606725 successfully.
+ !-Tried to load session AIDe348b9f16df2166659228559 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDe348b9f16df2166659228559 successfully.
+ .-[32;1mGenerated: 1 bots. (3ms)
+ .-Loaded profile for AID AIDe348b9f16df2166659228559 successfully.
+ !-Tried to load session AIDf0bfe9a50a77166659116391 but it wasn't cached, loading.
+ .-Loaded dialogues for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-[32;1mGenerated: 1 bots. (3ms)
+ .-Loaded profile for AID AIDf0bfe9a50a77166659116391 successfully.
+ .-HTTPS Server listening on 127.0.0.1:443
+ .-WebSocket listening on 127.0.0.1:444
