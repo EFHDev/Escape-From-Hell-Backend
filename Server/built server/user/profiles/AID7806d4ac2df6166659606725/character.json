@@ -8,7 +8,7 @@
 		"Side": "Bear",
 		"Voice": "Bear_1",
 		"Level": 33,
-		"Experience": 1338103,
+		"Experience": 1338115,
 		"RegistrationDate": 1666596162,
 		"GameVersion": "standard",
 		"AccountType": 0,
@@ -3661,7 +3661,7 @@
 					"isSearched": true
 				},
 				"upd": {
-					"StackObjectsCount": 23,
+					"StackObjectsCount": 3,
 					"SpawnedInSession": true
 				}
 			},
@@ -5468,13 +5468,8 @@
 			{
 				"_id": "f7a53206f40c167096841829",
 				"_tpl": "5f2a9575926fd9352339381f",
-				"parentId": "5fe49444ae6628187a2e78b8",
-				"slotId": "hideout",
-				"location": {
-					"x": 0,
-					"y": 34,
-					"r": 0
-				},
+				"parentId": "5fe49444ae6628187a2e77b8",
+				"slotId": "FirstPrimaryWeapon",
 				"upd": {
 					"StackObjectsCount": 1,
 					"FireMode": {
@@ -5603,7 +5598,7 @@
 			{
 				"_id": "8dc71e4eadde167096843318",
 				"_tpl": "5c0a2cec0db834001b7ce47d",
-				"parentId": "86ecf121cd8f167096843318",
+				"parentId": "a5fc3756a8e7167096841829",
 				"slotId": "mod_scope",
 				"upd": {
 					"StackObjectsCount": 1
@@ -6139,6 +6134,16 @@
 				"upd": {
 					"StackObjectsCount": 30,
 					"SpawnedInSession": true
+				}
+			},
+			{
+				"_id": "8a5436dfc3ef167096898510",
+				"_tpl": "5e023e6e34d52a55c3304f71",
+				"parentId": "b390febae043167096841829",
+				"slotId": "cartridges",
+				"location": 0,
+				"upd": {
+					"StackObjectsCount": 20
 				}
 			}
 		],
@@ -8612,7 +8617,10 @@
 		"6176aca650224f204c1da3fb": true,
 		"619386379fb0c665d5490dbe": true,
 		"57838ad32459774a17445cd2": true,
-		"57838f0b2459774a256959b2": true
+		"57838f0b2459774a256959b2": true,
+		"5f2a9575926fd9352339381f": true,
+		"5b099ac65acfc400186331e1": true,
+		"5c0a2cec0db834001b7ce47d": true
 	},
 	"ConditionCounters": {
 		"Counters": []
