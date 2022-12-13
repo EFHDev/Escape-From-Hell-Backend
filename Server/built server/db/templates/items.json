@@ -5,11 +5,6 @@
     "Price": 18397
   },
   {
-    "Id": "paulovarmory_vss-15",
-    "ParentId": "5b5f78fc86f77409407a7f90",
-    "Price": 18397
-  },
-  {
     "Id": "5447ac644bdc2d6c208b4567",
     "ParentId": "5b47574386f77428ca22b33c",
     "Price": 1000
@@ -306,11 +301,6 @@
   },
   {
     "Id": "55d4887d4bdc2d962f8b4570",
-    "ParentId": "5b5f754a86f774094242f19b",
-    "Price": 2012
-  },
-  {
-    "Id": "vss15_stanag_30",
     "ParentId": "5b5f754a86f774094242f19b",
     "Price": 2012
   },
@@ -2236,11 +2226,6 @@
   },
   {
     "Id": "5894a2c386f77427140b8342",
-    "ParentId": "5b5f75c686f774094242f19f",
-    "Price": 6574
-  },
-  {
-    "Id": "vss15barr",
     "ParentId": "5b5f75c686f774094242f19f",
     "Price": 6574
   },
@@ -8860,11 +8845,6 @@
     "Price": 9200
   },
   {
-    "Id": "vss15ur",
-    "ParentId": "5b5f764186f77447ec5d7714",
-    "Price": 9200
-  },
-  {
     "Id": "5d4405f0a4b9361e6a4e6bd9",
     "ParentId": "5b5f75e486f77447ec5d7712",
     "Price": 19900
@@ -10128,16 +10108,6 @@
     "Id": "ppsh141",
     "ParentId": "5b5f796a86f774093f2ed3c0",
     "Price": 10251
-  },
-  {
-    "Id": "sunset_armory_12g_ar15",
-    "ParentId": "5b5f794b86f77409407a7f92",
-    "Price": 32000
-  },
-  {
-    "Id": "Medpouch",
-    "ParentId": "5b5f6fa186f77409407a7eb7",
-    "Price": 32000
   },
   {
     "Id": "5ea058e01dbce517f324b3e2",

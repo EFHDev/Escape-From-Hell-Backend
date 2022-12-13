@@ -60591,62 +60591,6 @@
       }
     ]
   },
-  "paulovarmory_vss-15": {
-    "default": {
-      "unlimited": true,
-      "stack": 999999999
-    },
-    "currentStack": 999999999,
-    "loyalty": 2,
-    "barter_scheme": [
-      [
-        {
-          "count": 10251,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "items": [
-      {
-        "_id": "paulovarmory_vss-15",
-        "_tpl": "paulovarmory_vss-15",
-        "parentId": "hideout",
-        "slotId": "hideout",
-        "upd": {
-          "UnlimitedCount": true,
-          "StackObjectsCount": 99999999
-        }
-      }
-    ]
-  },
-  "sunset_armory_12g_ar15": {
-    "default": {
-      "unlimited": true,
-      "stack": 999999999
-    },
-    "currentStack": 999999999,
-    "loyalty": 2,
-    "barter_scheme": [
-      [
-        {
-          "count": 10251,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "items": [
-      {
-        "_id": "sunset_armory_12g_ar15",
-        "_tpl": "sunset_armory_12g_ar15",
-        "parentId": "hideout",
-        "slotId": "hideout",
-        "upd": {
-          "UnlimitedCount": true,
-          "StackObjectsCount": 99999999
-        }
-      }
-    ]
-  },
   "Medpouch": {
     "default": {
       "unlimited": true,
