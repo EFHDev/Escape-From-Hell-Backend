@@ -8,7 +8,7 @@
 		"Side": "Bear",
 		"Voice": "Bear_1",
 		"Level": 33,
-		"Experience": 1338143,
+		"Experience": 1338163,
 		"RegistrationDate": 1666596162,
 		"GameVersion": "standard",
 		"AccountType": 0,
@@ -44,11 +44,11 @@
 	},
 	"Health": {
 		"Hydration": {
-			"Current": 91.89072366666666,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"Energy": {
-			"Current": 63.392268666666666,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"Temperature": {
@@ -142,7 +142,7 @@
 					"isSearched": true
 				},
 				"upd": {
-					"StackObjectsCount": 34050
+					"StackObjectsCount": 33980
 				}
 			},
 			{
@@ -813,7 +813,7 @@
 					"isSearched": true
 				},
 				"upd": {
-					"StackObjectsCount": 359470
+					"StackObjectsCount": 303300
 				}
 			},
 			{
@@ -2059,14 +2059,8 @@
 			{
 				"_id": "4b2ef72242bc166828354891",
 				"_tpl": "59fc48e086f77463b1118392",
-				"parentId": "5fe49444ae6628187a2e78b8",
-				"slotId": "hideout",
-				"location": {
-					"x": 2,
-					"y": 9,
-					"r": "Horizontal",
-					"isSearched": true
-				},
+				"parentId": "2f9cbc7eefe7167096838115",
+				"slotId": "mod_foregrip",
 				"upd": {
 					"SpawnedInSession": true
 				}
@@ -3215,7 +3209,7 @@
 			{
 				"_id": "63981e2f78935c94d30011fc",
 				"_tpl": "570fd6c2d2720bc6458b457f",
-				"parentId": "f1ff14f806a5167096267553",
+				"parentId": "38bd0939f33b167096838115",
 				"slotId": "mod_scope",
 				"upd": {
 					"SpawnedInSession": true,
@@ -4785,13 +4779,8 @@
 			{
 				"_id": "9fed587d3108167096838115",
 				"_tpl": "6183afd850224f204c1da514",
-				"parentId": "5fe49444ae6628187a2e78b8",
-				"slotId": "hideout",
-				"location": {
-					"x": 8,
-					"y": 27,
-					"r": 1
-				},
+				"parentId": "5fe49444ae6628187a2e77b8",
+				"slotId": "FirstPrimaryWeapon",
 				"upd": {
 					"StackObjectsCount": 1,
 					"Foldable": {
@@ -4905,10 +4894,16 @@
 			{
 				"_id": "7ea17e847038167096838115",
 				"_tpl": "618178aa1cb55961fa0fdc80",
-				"parentId": "3256c7506a70167096838115",
-				"slotId": "mod_muzzle",
+				"parentId": "798b4c937606167096661763",
+				"slotId": "1",
 				"upd": {
 					"StackObjectsCount": 1
+				},
+				"location": {
+					"x": 0,
+					"y": 0,
+					"r": "Horizontal",
+					"isSearched": true
 				}
 			},
 			{
@@ -5487,10 +5482,16 @@
 			{
 				"_id": "b390febae043167096841829",
 				"_tpl": "5b099ac65acfc400186331e1",
-				"parentId": "f7a53206f40c167096841829",
-				"slotId": "mod_magazine",
+				"parentId": "5fe49444ae6628187a2e78b8",
+				"slotId": "hideout",
 				"upd": {
 					"StackObjectsCount": 1
+				},
+				"location": {
+					"x": 8,
+					"y": 27,
+					"r": "Horizontal",
+					"isSearched": true
 				}
 			},
 			{
@@ -6145,7 +6146,7 @@
 			{
 				"_id": "8a5436dfc3ef167096898510",
 				"_tpl": "5e023e6e34d52a55c3304f71",
-				"parentId": "b390febae043167096841829",
+				"parentId": "80656c5d9a16167096838115",
 				"slotId": "cartridges",
 				"location": 0,
 				"upd": {
@@ -6155,14 +6156,20 @@
 			{
 				"_id": "1fb267c4434c167096909467",
 				"_tpl": "5fbcc1d9016cce60e8341ab3",
-				"parentId": "5fe49444ae6628187a2e77b8",
-				"slotId": "FirstPrimaryWeapon",
+				"parentId": "5fe49444ae6628187a2e78b8",
+				"slotId": "hideout",
 				"upd": {
 					"StackObjectsCount": 1,
 					"FireMode": {
 						"FireMode": "single"
 					},
 					"SpawnedInSession": true
+				},
+				"location": {
+					"x": 0,
+					"y": 51,
+					"r": "Horizontal",
+					"isSearched": true
 				}
 			},
 			{
@@ -6310,6 +6317,42 @@
 				},
 				"upd": {
 					"StackObjectsCount": 52,
+					"SpawnedInSession": true
+				}
+			},
+			{
+				"_id": "319adb6c46ef167097081894",
+				"_tpl": "5c1bc5af2e221602b412949b",
+				"parentId": "5fe49444ae6628187a2e78b8",
+				"slotId": "hideout",
+				"upd": {
+					"StackObjectsCount": 1,
+					"SpawnedInSession": true
+				},
+				"location": {
+					"x": 4,
+					"y": 57,
+					"r": "Horizontal",
+					"isSearched": true
+				}
+			},
+			{
+				"_id": "f02e1c3fdd49167097087966",
+				"_tpl": "5dfa3d2b0dee1b22f862eade",
+				"parentId": "e10464559586167097089020",
+				"slotId": "mod_muzzle",
+				"upd": {
+					"StackObjectsCount": 1,
+					"SpawnedInSession": true
+				}
+			},
+			{
+				"_id": "e10464559586167097089020",
+				"_tpl": "5dfa3cd1b33c0951220c079b",
+				"parentId": "3256c7506a70167096838115",
+				"slotId": "mod_muzzle",
+				"upd": {
+					"StackObjectsCount": 1,
 					"SpawnedInSession": true
 				}
 			}
@@ -8792,7 +8835,13 @@
 		"59e0bdb186f774156f04ce82": true,
 		"5fc0f9cbd6fa9c00c571bb90": true,
 		"5fbcc429900b1d5091531dd7": true,
-		"5fbc22ccf24b94483f726483": true
+		"5fbc22ccf24b94483f726483": true,
+		"618168dc8004cc50514c34fc": true,
+		"5fbcbcf593164a5b6278efb2": true,
+		"5c1780312e221602b66cc189": true,
+		"5fbe760793164a5b6278efc8": true,
+		"5fbcc3e4d6fa9c00c571bb58": true,
+		"618178aa1cb55961fa0fdc80": true
 	},
 	"ConditionCounters": {
 		"Counters": []
@@ -8858,7 +8907,7 @@
 								"upd": {
 									"StackObjectsCount": 1,
 									"Resource": {
-										"Value": 99.3346
+										"Value": 99.268
 									}
 								}
 							}
@@ -9159,7 +9208,7 @@
 			"unlocked": true
 		},
 		"ragfair": {
-			"salesSum": 13149057,
+			"salesSum": 13205227,
 			"standing": 0
 		},
 		"54cb50c76803fa8b248b4571": {
@@ -9179,7 +9228,7 @@
 			"standing": 0
 		},
 		"5935c25fb3acc3127c3d8cd9": {
-			"salesSum": 114616,
+			"salesSum": 114686,
 			"standing": 0,
 			"unlocked": true
 		},
