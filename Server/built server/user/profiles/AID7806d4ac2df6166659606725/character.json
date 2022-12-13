@@ -8,7 +8,7 @@
 		"Side": "Bear",
 		"Voice": "Bear_1",
 		"Level": 33,
-		"Experience": 1338163,
+		"Experience": 1338173,
 		"RegistrationDate": 1666596162,
 		"GameVersion": "standard",
 		"AccountType": 0,
@@ -4505,8 +4505,8 @@
 				"parentId": "5fe49444ae6628187a2e78b8",
 				"slotId": "hideout",
 				"location": {
-					"x": 6,
-					"y": 33,
+					"x": 9,
+					"y": 29,
 					"r": "Horizontal",
 					"isSearched": true
 				},
@@ -4779,8 +4779,8 @@
 			{
 				"_id": "9fed587d3108167096838115",
 				"_tpl": "6183afd850224f204c1da514",
-				"parentId": "5fe49444ae6628187a2e77b8",
-				"slotId": "FirstPrimaryWeapon",
+				"parentId": "5fe49444ae6628187a2e78b8",
+				"slotId": "hideout",
 				"upd": {
 					"StackObjectsCount": 1,
 					"Foldable": {
@@ -4790,6 +4790,12 @@
 						"FireMode": "single"
 					},
 					"SpawnedInSession": true
+				},
+				"location": {
+					"x": 8,
+					"y": 42,
+					"r": "Vertical",
+					"isSearched": true
 				}
 			},
 			{
@@ -8841,7 +8847,8 @@
 		"5c1780312e221602b66cc189": true,
 		"5fbe760793164a5b6278efc8": true,
 		"5fbcc3e4d6fa9c00c571bb58": true,
-		"618178aa1cb55961fa0fdc80": true
+		"618178aa1cb55961fa0fdc80": true,
+		"619636be6db0f2477964e710": true
 	},
 	"ConditionCounters": {
 		"Counters": []
