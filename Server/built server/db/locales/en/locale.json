@@ -19939,11 +19939,6 @@
       "ShortName": "TX15 LW",
       "Description": "An upper receiver for the TX-15 rifle, manufactured by Lone Star. Equipped with a mount for attaching additional devices."
     },
-    "fleakey": {
-      "Name": "plt_armr's Blackmarket flea key",
-      "ShortName": "FL31",
-      "Description": "Made by Plt_armr"
-    },
     "5d4405f0a4b9361e6a4e6bd9": {
       "Name": "AR-15 Lone Star Ion Lite handguard",
       "ShortName": "Ion Lite",

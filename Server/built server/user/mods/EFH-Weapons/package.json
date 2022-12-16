@@ -2,7 +2,7 @@
   "name": "EFH-Weapons",
   "author": "Kestrel",
   "license": "cc-nc-nd",
-  "main": "src/mod.js",
+  "main": "package.js",
   "version": "1.0.0",
   "akiVersion": "3.3.0",
   "devdependencies": {}
