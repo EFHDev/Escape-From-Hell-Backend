@@ -1,0 +1,10 @@
+{
+	"_id": "receiver_mk17mod0_upper",
+	"_tpl": "receiver_mk17mod0_upper",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

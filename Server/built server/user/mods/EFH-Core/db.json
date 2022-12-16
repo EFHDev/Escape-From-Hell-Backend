@@ -1,0 +1,33 @@
+{
+	"items":{
+		"efh_weapon_taurus44":"db/items/efh_weapon_taurus44.json"
+	},
+	"templates":{
+		"items":{
+			"efh_weapon_taurus44":"db/templates/items/efh_weapon_taurus44.json"
+		},
+		"handbook":{
+			"efh_weapon_taurus44":"db/templates/handbook/efh_weapon_taurus44.json"
+		}
+		},
+	"locales":{
+		"en":{
+			"templates":{
+				"efh_weapon_taurus44":"db/locales/en/templates/efh_weapon_taurus44.json"
+			}
+		}
+	},
+	"assort":{
+		"ragfair":{
+			"items":{
+				"efh_weapon_taurus44":"db/assort/ragfair/items/efh_weapon_taurus44.json"
+			},
+			"loyal_level_items":{
+				"efh_weapon_taurus44":"db/assort/ragfair/loyal_level_items/efh_weapon_taurus44.json"
+			},
+			"barter_scheme":{
+				"efh_weapon_taurus44":"db/assort/ragfair/barter_scheme/efh_weapon_taurus44.json"
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "barrel_mk17mod0_508mm",
+	"_tpl": "barrel_mk17mod0_508mm",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

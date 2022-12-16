@@ -1,0 +1,10 @@
+{
+	"_id": "sight_front_mk17mod0",
+	"_tpl": "sight_front_mk17mod0",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

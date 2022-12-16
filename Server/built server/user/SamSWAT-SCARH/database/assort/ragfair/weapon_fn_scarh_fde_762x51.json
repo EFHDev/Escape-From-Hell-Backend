@@ -1,0 +1,10 @@
+{
+	"_id": "sunset_armory_12g_ar15",
+	"_tpl": "sunset_armory_12g_ar15",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "sight_rear_all_mk17mod0_tritium",
+	"_tpl": "sight_rear_all_mk17mod0_tritium",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

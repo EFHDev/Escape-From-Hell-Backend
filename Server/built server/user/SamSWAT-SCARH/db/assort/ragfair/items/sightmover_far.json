@@ -1,0 +1,10 @@
+{
+	"_id": "sightmover_far",
+	"_tpl": "sightmover_far",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

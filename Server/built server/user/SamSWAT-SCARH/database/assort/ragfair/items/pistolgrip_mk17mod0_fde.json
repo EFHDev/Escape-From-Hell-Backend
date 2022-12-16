@@ -1,0 +1,10 @@
+{
+	"_id": "pistolgrip_mk17mod0_fde",
+	"_tpl": "pistolgrip_mk17mod0_fde",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

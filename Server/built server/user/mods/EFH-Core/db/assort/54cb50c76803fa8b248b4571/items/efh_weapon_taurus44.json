@@ -1,0 +1,10 @@
+{
+	"_id": "efh_weapon_taurus44",
+	"_tpl": "efh_weapon_taurus44",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

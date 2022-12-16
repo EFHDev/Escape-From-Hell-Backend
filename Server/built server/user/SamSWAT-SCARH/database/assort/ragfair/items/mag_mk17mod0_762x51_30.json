@@ -1,0 +1,10 @@
+{
+	"_id": "mag_mk17mod0_762x51_30",
+	"_tpl": "mag_mk17mod0_762x51_30",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
