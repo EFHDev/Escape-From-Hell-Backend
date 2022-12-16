@@ -1,9 +1,0 @@
-{
-  "name": "FN SCAR-H",
-  "author": "SamSWAT",
-  "license": "MS-RSL",
-  "version": "1.0.0",
-  "main": "mod.js",
-  "dependencies": {},
-  "akiVersion": "<3.0.0"
-}
