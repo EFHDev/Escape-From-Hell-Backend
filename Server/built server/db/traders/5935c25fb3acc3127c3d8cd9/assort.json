@@ -7014,142 +7014,6 @@
       }
     },
     {
-      "_id": "62bc83c194a0fde72e0a7725",
-      "_tpl": "623063e994fc3f7b302a9696",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "Foldable": {
-          "Folded": false
-        },
-        "FireMode": {
-          "FireMode": "single"
-        },
-        "StackObjectsCount": 19913,
-        "BuyRestrictionMax": 4,
-        "BuyRestrictionCurrent": 0
-      }
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7726",
-      "_tpl": "62307b7b10d2321fa8741921",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_magazine"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7727",
-      "_tpl": "622f140da5958f63c67f1735",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_stock"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7728",
-      "_tpl": "622b38c56762c718e457e246",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_barrel"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7729",
-      "_tpl": "622f128cec80d870d349b4e8",
-      "parentId": "62bc83c194a0fde72e0a7728",
-      "slotId": "mod_muzzle"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a772a",
-      "_tpl": "622b327b267a1b13a44abea3",
-      "parentId": "62bc83c194a0fde72e0a7728",
-      "slotId": "mod_gas_block"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a772b",
-      "_tpl": "6231654c71b5bc3baa1078e5",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_handguard"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a772c",
-      "_tpl": "622f02437762f55aaa68ac85",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_mount"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a772d",
-      "_tpl": "622b4d7df9cfc87d675d2ded",
-      "parentId": "62bc83c194a0fde72e0a7725",
-      "slotId": "mod_scope"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a772e",
-      "_tpl": "622efbcb99f4ea1a4d6c9a15",
-      "parentId": "62bc83c194a0fde72e0a772d",
-      "slotId": "mod_scope"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7730",
-      "_tpl": "623063e994fc3f7b302a9696",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "Foldable": {
-          "Folded": false
-        },
-        "FireMode": {
-          "FireMode": "single"
-        },
-        "StackObjectsCount": 19884,
-        "BuyRestrictionMax": 4,
-        "BuyRestrictionCurrent": 0
-      }
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7731",
-      "_tpl": "62307b7b10d2321fa8741921",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_magazine"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7732",
-      "_tpl": "622f140da5958f63c67f1735",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_stock"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7733",
-      "_tpl": "622b38c56762c718e457e246",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_barrel"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7734",
-      "_tpl": "622f128cec80d870d349b4e8",
-      "parentId": "62bc83c194a0fde72e0a7733",
-      "slotId": "mod_muzzle"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7735",
-      "_tpl": "622b327b267a1b13a44abea3",
-      "parentId": "62bc83c194a0fde72e0a7733",
-      "slotId": "mod_gas_block"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7736",
-      "_tpl": "6231654c71b5bc3baa1078e5",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_handguard"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7737",
-      "_tpl": "622f02437762f55aaa68ac85",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_mount"
-    },
-    {
-      "_id": "62bc83c194a0fde72e0a7738",
-      "_tpl": "622b4f54dc8dcc0ba8742f85",
-      "parentId": "62bc83c194a0fde72e0a7730",
-      "slotId": "mod_scope"
-    },
-    {
       "_id": "62bc83c194a0fde72e0a773a",
       "_tpl": "623063e994fc3f7b302a9696",
       "parentId": "hideout",
@@ -11220,14 +11084,6 @@
         }
       ]
     ],
-    "62bc83c194a0fde72e0a7730": [
-      [
-        {
-          "count": 663.29,
-          "_tpl": "5696686a4bdc2da3298b456a"
-        }
-      ]
-    ],
     "62bc83c194a0fde72e0a773a": [
       [
         {
@@ -11933,7 +11789,6 @@
     "62bc83c194a0fde72e0a7721": 4,
     "62bc83c194a0fde72e0a7723": 3,
     "62bc83c194a0fde72e0a7725": 2,
-    "62bc83c194a0fde72e0a7730": 2,
     "62bc83c194a0fde72e0a773a": 3,
     "62bc83c194a0fde72e0a7748": 3,
     "62bc83c194a0fde72e0a7754": 4,

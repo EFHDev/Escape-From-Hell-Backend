@@ -25451,6 +25451,27 @@
       "Location": "Tarkov Customs District",
       "Description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal."
     },
+    "sidovich": {
+      "FullName": "<Real name unknown>",
+      "FirstName": "<Real name unknown>",
+      "Nickname": "Sidorovich",
+      "Location": "Kyiv, Ukraine",
+      "Description": "A intercontinetal Black market dealer in the world of electronics, Known in the region as Sidorovich, He has goons all over the Western-Russian, Ukranian area. You want to be on his good-side."
+    },
+    "lineman": {
+      "FullName": "<Real name unknown>",
+      "FirstName": "<Real name unknown>",
+      "Nickname": "Lineman",
+      "Location": "A network of trading outlets all over the Europian and western russian region",
+      "Description": "A international arms dealer, If you need a gun, Hes got what you need. Carrys mostly explosives, and specialty squad weapons."
+    },
+    "chef": {
+      "FullName": "Angelika Chobot",
+      "FirstName": "Angelika",
+      "Nickname": "Chef",
+      "Location": "UNTAR Outpost, Norvinsk Region, Customs District",
+      "Description": "Angelika is a UNTAR member that servers thousends of meals a day at cheap cost to the civilians in the Norvinsk region, Part of the humantarian support from western powers. Russian Civilians don't know how to speak polish or english, so they gave her the local nickname of Chef."
+    },
     "5935c25fb3acc3127c3d8cd9": {
       "FullName": "Tadeusz Pilsudski",
       "FirstName": "Tadeusz",

@@ -1,0 +1,20 @@
+{
+	"items":{},
+	"templates":{
+		"items":{},
+		"handbook":{}
+		},
+	"locales":{
+		"en":{
+			"templates":{}
+		}
+	},
+	"assort":{
+		"ragfair":{},
+			"loyal_level_items":{},
+			"barter_scheme":{}
+		},
+    "buffs": {
+        "Buffs_schlagger": "database/buffs/Buffs_schlagger.json"
+    }
+}

@@ -127,7 +127,8 @@ class TradingController {
       "Mechanic": "5a7c2eca46aef81a7ca2145d",
       "Ragman": "5ac3b934156ae10c4430e83c",
       "Jaeger": "5c0647fdd443bc2504c2d371",
-      "Ragfair": "ragfair"
+      "Ragfair": "ragfair",
+      "Sidorovich": "Sidorovich"
     };
     static FenceId = TradingController.TraderIdToNameMap["Fence"];
     static RagfairId = TradingController.TraderIdToNameMap["Ragfair"];

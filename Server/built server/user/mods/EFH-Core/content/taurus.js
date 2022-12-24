@@ -43,6 +43,11 @@ class Taurus44
 			const item = JsonUtil.deserialize(VFS.readFile(`${modPath}/${path}`));
 			DatabaseServer.tables.templates.handbook.Items.push(item)
 		}
+		for (const buff in myBuffs) {
+			const path = myBuffs[buff];
+			const buffitem = JsonUtil.deserialize(VFS.readFile(`${modPath}/${path}`));
+			buffs[buff] = buffitem;
+		}
 		
 		for (const localeID in DatabaseServer.tables.locales.global) // You ever just steal code from someone else that was stolen from you? Yeah man me too
 			{

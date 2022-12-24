@@ -1,0 +1,20 @@
+[
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 240,
+        "Value": 3,
+        "AbsoluteValue": true,
+        "SkillName": "Charisma"
+    },
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 60,
+        "Duration": 240,
+        "Value": -2,
+        "AbsoluteValue": true,
+        "SkillName": "Memory"
+    }
+]

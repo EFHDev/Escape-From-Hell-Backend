@@ -4,6 +4,7 @@ const efhlogo = ((chalk.white.bold('[EF') + chalk.red.bold('H') + chalk.white(']
 const db = require("./db.json");
 const bundles = require("./bundles.json"); // do i even need to do this
 const Taurus44 = require("./content/taurus.js");
+const SchlaggerDrink = require("./content/schlagger.js");
 const configpoem = require("./config.json");
 
 class Mod
@@ -27,10 +28,12 @@ class Mod
             Logger.info(efhlogo + " As we arrived home, we realised, our food rations are low, only 2 tuchonka to our name.")
             Logger.info(efhlogo + ' It would only be a matter of days until we starved. Its death or killing. No inbetween.');
             ModLoader.onLoad["EFH-Core"] = Taurus44.onLoadMod;
+            ModLoader.onLoad["EFH-Core"] = SchlaggerDrink.onLoadMod;
         }
         else if(!configpoem?.poems == true)
         {
             ModLoader.onLoad["EFH-Core"] = Taurus44.onLoadMod;
+            ModLoader.onLoad["EFH-Core"] = SchlaggerDrink.onLoadMod;
         }
     }
 }

@@ -11,21 +11,78 @@
 			"key": "assets/content/weapons/taurus44/white/textures/client_assets.bundle",
 			"dependencyKeys": []
 		},
-				{
+		{
 			"key": "assets/content/items/equipment/armor_improvised/item_equipment_armor_trooper.bundle",
 			"dependencyKeys": [
 				"shaders",
 				"cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
-			]			
+			]
+		},
+		{
+			"key": "assets/content/items/barter/atlas-stone/item_barter_valuable_bitcoin.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"shaders"
+			]
 		},
 				{
+			"key": "assets/content/items/barter/ration-card/item_barter_valuable_bitcoin.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/barter/akconversionkit/item_barter_valuable_bitcoin.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"shaders"
+			]
+		},
+		{
 			"key": "assets/content/audio/phrases/bossamerican_voice.bundle",
-			"dependencyKeys": []			
+			"dependencyKeys": []
+		},
+
+		{
+			"key": "assets/content/audio/phrases/bosstsar_voice.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/weapons/useable_items/efh_schlagger/textures/client_assets.bundle",
+			"dependencyKeys": []
 		},
 				{
-			"key": "assets/content/audio/phrases/bosstsar_voice.bundle",
-			"dependencyKeys": []			
+			"key": "assets/content/weapons/useable_items/efh_schlagger/efh_schlagger_loot.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/usable_items/item_drink_cans/client_assets.bundle",
+			"assets/content/weapons/useable_items/efh_schlagger/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+						{
+			"key": "assets/content/weapons/m4a1/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/m4a1/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+		{
+			"key": "assets/content/weapons/useable_items/efh_schlagger/efh_schlagger_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/weapons/usable_items/item_drink_cans/client_assets.bundle",
+			"assets/content/weapons/usable_items/item_drink_cans/item_icegeen_assets.bundle",
+			"assets/content/weapons/usable_items/item_tarcola/item_tarcola_container.bundle",
+			"assets/content/weapons/usable_items/item_drink_cans/item_maxenergy_assets.bundle",
+			"assets/content/weapons/useable_items/efh_schlagger/textures/client_assets.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
 		},
 		{
 			"key": "assets/content/weapons/taurus44/white/weapon_chiappa_rhino_50ds_9x33r_container.bundle",
