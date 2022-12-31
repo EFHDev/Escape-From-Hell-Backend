@@ -6,6 +6,7 @@ const bundles = require("./bundles.json"); // do i even need to do this
 const Taurus44 = require("./content/taurus.js");
 const SchlaggerDrink = require("./content/schlagger.js");
 const configpoem = require("./config.json");
+const RationCard = require('./content/ration-card');
 
 class Mod
 {
@@ -29,11 +30,14 @@ class Mod
             Logger.info(efhlogo + ' It would only be a matter of days until we starved. Its death or killing. No inbetween.');
             ModLoader.onLoad["EFH-Core"] = Taurus44.onLoadMod;
             ModLoader.onLoad["EFH-Core"] = SchlaggerDrink.onLoadMod;
+            ModLoader.onLoad["EFH-Core"] = RationCard.onLoadMod;
         }
         else if(!configpoem?.poems == true)
         {
             ModLoader.onLoad["EFH-Core"] = Taurus44.onLoadMod;
             ModLoader.onLoad["EFH-Core"] = SchlaggerDrink.onLoadMod;
+            ModLoader.onLoad["EFH-Core"] = RationCard.onLoadMod;
+
         }
     }
 }

@@ -34,6 +34,17 @@
       }
     },
     {
+      "_id": "squash",
+      "_tpl": "5448ff904bdc2d6f028b456e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
       "_id": "applejooice",
       "_tpl": "57513f07245977207e26a311",
       "parentId": "hideout",
@@ -70,6 +81,14 @@
         }
       ]
     ],
+    "squash": [
+      [
+        {
+          "count": 1,
+          "_tpl": "efh_barter_rationcard"
+        }
+      ]
+    ],
     "oatflakes": [
       [
         {
@@ -77,7 +96,13 @@
           "_tpl": "5696686a4bdc2da3298b456a"
         }
       ]
-    ],
+    ]
   },
-  "loyal_level_items": {}
+  "loyal_level_items": {
+    "squash": 1,
+    "oatflakes": 1,
+    "emengencywater": 1,
+    "applejooice": 1,
+    "crackas": 1
+  }
 }
