@@ -25,9 +25,9 @@ class Mod
            /********/**      /**     /**       //******  //*******  /**   //**/********
            //////// //       //      //         //////    ///////   //     // //////// "
            Thank you for playing! `);
-            Logger.info(efhlogo + " When we came to, our gear was gone, in defeat we ran home, doding bullets left and right.");
-            Logger.info(efhlogo + " As we arrived home, we realised, our food rations are low, only 2 tuchonka to our name.")
-            Logger.info(efhlogo + ' It would only be a matter of days until we starved. Its death or killing. No inbetween.');
+            Logger.info(efhlogo + " We awoke to find our equipment was missing, So we retreated, dodging gunfire, in distress.");
+            Logger.info(efhlogo + " Upon arrival, we discovered a bleak reality, With only two cans of tushonka left to sustain us.")
+            Logger.info(efhlogo + ' Starvation loomed, leaving us with a dire choice. Death or violence, with no middle ground to suffice.');
             ModLoader.onLoad["EFH-Core"] = Taurus44.onLoadMod;
             ModLoader.onLoad["EFH-Core"] = SchlaggerDrink.onLoadMod;
             ModLoader.onLoad["EFH-Core"] = RationCard.onLoadMod;

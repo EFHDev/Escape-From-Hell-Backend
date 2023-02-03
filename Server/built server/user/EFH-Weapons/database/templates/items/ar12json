@@ -250,7 +250,7 @@
 			"_mergeSlotWithChildren": false,
 			"_proto": "55d4af244bdc2d962f8b4571"
 		}],
-		"CameraRecoil": 0.136,
+		"CameraRecoil": 0.08,
 		"CameraSnap": 3.5,
 		"ReloadMode": "ExternalMagazine",
 		"CenterOfImpact": 0.01,

@@ -10,6 +10,7 @@
     "debug": "node bin/www.js --trace-warnings"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.6",
     "crypto": "^1.0.1",

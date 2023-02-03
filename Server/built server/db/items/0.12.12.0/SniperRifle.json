@@ -174,7 +174,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.28,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "InternalMagazine",
 			"CenterOfImpact": 0.011,
@@ -423,7 +423,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.32,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "InternalMagazine",
 			"CenterOfImpact": 0.011,
@@ -690,7 +690,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.32,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "InternalMagazine",
 			"CenterOfImpact": 0.011,
@@ -1043,7 +1043,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.28,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.016,
@@ -1386,7 +1386,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.24,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.005,
@@ -1644,7 +1644,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.32,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.011,
@@ -1901,7 +1901,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.24,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.005,
@@ -2179,7 +2179,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.24,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "InternalMagazine",
 			"CenterOfImpact": 0.011,

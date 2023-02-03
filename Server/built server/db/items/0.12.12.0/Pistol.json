@@ -219,7 +219,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.016,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -579,7 +579,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.024,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -928,7 +928,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0224,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -1196,7 +1196,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.012,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -1464,7 +1464,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.012,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -1803,7 +1803,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0144,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -2130,7 +2130,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0144,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -2450,7 +2450,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0192,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.8,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -2716,7 +2716,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.012,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -2956,7 +2956,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.02,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.35,
@@ -3167,7 +3167,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.016,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.39,
@@ -3400,7 +3400,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.016,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.38,
@@ -3684,7 +3684,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0144,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.3,
@@ -3983,7 +3983,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0136,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -4230,7 +4230,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.012,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.3,
@@ -4449,7 +4449,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.024,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.22,
@@ -4751,7 +4751,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.0224,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.32,
@@ -5032,7 +5032,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.02,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,
@@ -5313,7 +5313,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.02,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0,

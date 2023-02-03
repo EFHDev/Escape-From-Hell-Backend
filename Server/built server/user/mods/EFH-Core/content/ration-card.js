@@ -40,7 +40,6 @@ class RationCard
 					const path = db.locales.en.templates[langKey];
 					const lang = JsonUtil.deserialize(VFS.readFile(`${modPath}/${path}`));
 					DatabaseServer.tables.locales.global[localeID].templates[langKey] = lang;
-          Logger.info(efhlogo + " Loaded Ration-card 2")
 				}
 			}
 	}
@@ -66,7 +65,6 @@ class RationCard
 				const path = db.assort[traderID].barter_scheme[itemKey];
 				const item = JsonUtil.deserialize(VFS.readFile(`${modPath}/${path}`));
 				DatabaseServer.tables.traders[traderID].assort.barter_scheme[itemKey] = item;
-        Logger.info(efhlogo + " Loaded Ration-card 1")
 			}
 	}
 	
@@ -85,7 +83,7 @@ class RationCard
 	static addToMastery(weapon_id, mastery_index)
 	{
 		DatabaseServer.tables.globals.config.Mastering[mastery_index].Templates.push(weapon_id);
-        Logger.info(efhlogo + " Loaded Ration-card 3")
+        Logger.info(efhlogo + " Loaded Ration-card")
 	}
 	
 }

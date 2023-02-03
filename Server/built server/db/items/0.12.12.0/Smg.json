@@ -231,7 +231,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.068,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.21,
@@ -530,7 +530,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.064,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.21,
@@ -811,7 +811,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.112,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -1055,7 +1055,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.076,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.22,
@@ -1300,7 +1300,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.068,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.2,
@@ -1743,7 +1743,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.064,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -2230,7 +2230,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.064,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -2583,7 +2583,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.088,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -3345,7 +3345,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.072,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.07,
@@ -4003,7 +4003,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.072,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.01,
@@ -4431,7 +4431,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.144,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 4.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -4864,7 +4864,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.12,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 4.7,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -5099,7 +5099,7 @@
 			"AdjustCollimatorsToTrajectory": false,
 			"shotgunDispersion": 0,
 			"Chambers": [],
-			"CameraRecoil": 0.144,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.1,
@@ -5347,7 +5347,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.048,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.2,
@@ -5595,7 +5595,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.064,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
@@ -5843,7 +5843,7 @@
 					"_proto": "55d4af244bdc2d962f8b4571"
 				}
 			],
-			"CameraRecoil": 0.072,
+			"CameraRecoil": 0.08,
 			"CameraSnap": 3.5,
 			"ReloadMode": "ExternalMagazine",
 			"CenterOfImpact": 0.25,
