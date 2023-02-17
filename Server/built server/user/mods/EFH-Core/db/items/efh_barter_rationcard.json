@@ -52,7 +52,7 @@
     "DiscardingBlock": false,
     "RagFairCommissionModifier": 1,
     "IsAlwaysAvailableForInsurance": false,
-    "DiscardLimit": 0,
+    "DiscardLimit": -1,
     "DropSoundType": "None",
     "MaxResource": 0,
     "Resource": 0,

@@ -1,0 +1,10 @@
+{
+	"_id": "efh_katto_patch",
+	"_tpl": "efh_katto_patch",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

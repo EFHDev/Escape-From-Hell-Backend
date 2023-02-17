@@ -1,0 +1,10 @@
+{
+	"_id": "efh_ssh_barter",
+	"_tpl": "efh_ssh_barter",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

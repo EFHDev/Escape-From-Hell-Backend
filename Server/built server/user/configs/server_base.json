@@ -12,7 +12,7 @@
 	"lootDebug": true,
 	"hideInfoLogs": false,
 	"debugTimer": true,
-	"showDebugLogs": false,
+	"showDebugLogs": true,
 	"translations": {
 		"alreadyInUse": "The nickname is already in use",
 		"tooShort": "The nickname is too short"

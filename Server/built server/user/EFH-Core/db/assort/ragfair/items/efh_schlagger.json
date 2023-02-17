@@ -1,0 +1,10 @@
+{
+	"_id": "efh_schlagger",
+	"_tpl": "efh_schlagger",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
