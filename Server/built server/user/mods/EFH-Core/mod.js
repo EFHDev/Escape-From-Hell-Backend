@@ -6,7 +6,6 @@ const bundles = require("./bundles.json"); // do i even need to do this
 const Taurus44 = require("./content/taurus.js");
 const SchlaggerDrink = require("./content/schlagger.js");
 const RationCard = require('./content/ration-card.js');
-const SSHFigure = require('./content/efh_ssh_barter.js');
 const KattoPatch = require('./content/efh_katto_patch.js');
 const AtlasStone = require('./content/atlas_stone.js');
 const configpoem = require("./config.json");
@@ -37,8 +36,6 @@ class Mod
             Logger.info(efhlogo + "Loaded Schlagger");
             ModLoader.onLoad["EFH-Core"] = RationCard.onLoadMod;
             Logger.info(efhlogo + "Loaded RationCard");
-			ModLoader.onLoad["EFH-Core"] = SSHFigure.onLoadMod;
-            Logger.info(efhlogo + "Loaded SSHFigure");
 			ModLoader.onLoad["EFH-Core"] = KattoPatch.onLoadMod;
             Logger.info(efhlogo + "Loaded KattoPatch");
 			ModLoader.onLoad["EFH-Core"] = AtlasStone.onLoadMod;
@@ -52,8 +49,6 @@ class Mod
             Logger.info(efhlogo + "Loaded Schlagger");
             ModLoader.onLoad["EFH-Core"] = RationCard.onLoadMod;
             Logger.info(efhlogo + "Loaded RationCard");
-			ModLoader.onLoad["EFH-Core"] = SSHFigure.onLoadMod;
-            Logger.info(efhlogo + "Loaded SSHFigure");
 			ModLoader.onLoad["EFH-Core"] = KattoPatch.onLoadMod;
             Logger.info(efhlogo + "Loaded KattoPatch");
 			ModLoader.onLoad["EFH-Core"] = AtlasStone.onLoadMod;

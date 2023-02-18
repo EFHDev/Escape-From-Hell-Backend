@@ -8,7 +8,7 @@
 		"Side": "Bear",
 		"Voice": "Bear_1",
 		"Level": 33,
-		"Experience": 1373356,
+		"Experience": 1373369,
 		"RegistrationDate": 1666596162,
 		"GameVersion": "standard",
 		"AccountType": 0,
@@ -44,11 +44,11 @@
 	},
 	"Health": {
 		"Hydration": {
-			"Current": 96.87942,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"Energy": {
-			"Current": 94.4938,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"Temperature": {
@@ -9112,7 +9112,9 @@
 		"6034e3cb0ddce744014cb870": true,
 		"efh_barter_kingatlas": false,
 		"efh_ssh_barter": false,
-		"efh_katto_patch": false
+		"efh_katto_patch": false,
+		"l85a2_rail_id": true,
+		"ssh_barter_exep": true
 	},
 	"ConditionCounters": {
 		"Counters": []
@@ -9178,7 +9180,7 @@
 								"upd": {
 									"StackObjectsCount": 1,
 									"Resource": {
-										"Value": 81.2343
+										"Value": 79.7704
 									}
 								}
 							}
