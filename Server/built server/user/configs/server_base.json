@@ -11,7 +11,7 @@
 	"alwaysLoadModBundles": true,
 	"lootDebug": true,
 	"hideInfoLogs": false,
-	"debugTimer": true,
+	"debugTimer": false,
 	"showDebugLogs": true,
 	"translations": {
 		"alreadyInUse": "The nickname is already in use",

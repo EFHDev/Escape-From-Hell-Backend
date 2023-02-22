@@ -1,5 +1,6 @@
 {
 	"poems": true,
 	"unlockTraders": true,
-	"showDebugLogs": true
+	"showDebugLogs": true,
+	"highcontrastconsole": false
 }
