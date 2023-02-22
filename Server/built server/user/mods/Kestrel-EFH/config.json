@@ -1,4 +1,5 @@
 {
 	"poems": true,
-	"unlockTraders": false
+	"unlockTraders": true,
+	"showDebugLogs": true
 }

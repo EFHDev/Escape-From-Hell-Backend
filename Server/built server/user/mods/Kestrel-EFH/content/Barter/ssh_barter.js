@@ -1,46 +1,52 @@
 "use strict";
 
 const db = DatabaseServer.tables;
-const localessource = db.locales.global;
-const item = db.templates.items
-const tradersource = db.traders;
-const ragfair = "ragfair"; //ragfair ID
-const lineman = "5a7c2eca46aef81a7ca2145d"; //trader id
+const items = db.templates.items
+const locales = db.locales.global;
+const { parent } = require('../../util/modding-keys');
+const { tid } = require('../../util/modding-keys');
+const {itemp} = require('../../util/modding-keys');
+global.logger = require("../../../../../core/util/logger").logger;
+const ragfair = tid.ragfair
+const tp = parent
 
-class sshThing
-{
+
+class sshitem{
     static onLoadMod()
     {
-        sshThing.CreateSSH();
-        sshThing.Yeetbitchintotrader();
+        sshitem.CreateSSH();
+        sshitem.Yeetbitchintotrader();
+        db.templates.prices["efh_ssh_barter"] = 25605;
     }
     
     static CreateSSH()
     {
 		logger.logDebug("Creating SSH Barter Item") //For debugging purposes
-        let item = JsonUtil.clone(item["59e3658a86f7741776641ac4"]); 
-        item._id = "efh_ssh_barter"; //ID of the item stoopid
-        item._props.Weight = 0.447; //Self explantory for the rest
-		item._props.Width = 1;
-		item._props.Height = 2;
-        item._props.Prefab.path = "assets/content/items/friend-items/ssh/efh_ssh_barter.bundle";
-        item["efh_ssh_barter"] = item;
-
-        for (const localeID in localessource)
+        let ssh = JsonUtil.clone(items["5c488a752e221602b412af63"]);
+        ssh._id = "efh_ssh_barter"; //ID of the item stoopid
+        ssh.weight = 0.447; //Self explantory for the rest
+		ssh.width = 1;
+		ssh._props.Height = 2;
+        ssh._props.ExaminedByDefault = true;
+        ssh._props.Prefab.path = "assets/content/items/friend-items/ssh/efh_ssh_barter.bundle";
+        items["efh_ssh_barter"] = ssh;
         {
-            localessource[localeID].templates["efh_ssh_barter"] = {
-                "Name": "<color=#f51717>[EFH] Servph Corp PMC Group 1-1 Nikita Obliterators Helicopter Figureine</color>",
-                "ShortName": "Helicopter Figureine",
-				"Description": "The small figurine from Servph Corpp PMC Group is a meticulously crafted model depicting the fearsome Nikita Obliterators in action. The figurine features a highly detailed helicopter branded with the Servph Corpp Task Force 1-1 logo, soaring forward with intense speed and agility. A skilled sniper is shown aiming a powerful rifle out of the helicopter, ready to take down any target with ruthless precision. This figurine is a perfect representation of the highly trained, specialized mercenaries of the Servph Corpp PMC Group, who are renowned for their strategic prowess and combat skills. It is a must-have for military enthusiasts and collectors who appreciate the skill and bravery of these elite soldiers."
-            };
+            for (const localeID in locales) {
+                locales[localeID].templates["efh_ssh_barter"] = {
+                    "Name": "sex",
+                    "ShortName": "sex",
+                    "Description": "The L85A2 is a gas-operated, rotating bolt, magazine fed British assault rifle in a bullpup layout. A2 variant is the result of a significant upgrade in the early 2000s by Heckler & Koch of SA80, which was designed in the 1970s to 1980s."
+                };
         }
+    }
 
         db.templates.handbook.Items.push(
         {
             "Id": "efh_ssh_barter",
-            "ParentId": "5b5f742686f774093e6cb4ff", //Roubles
-            "Price": 14320, //How many roubles to buy
+            "ParentId": tp.Valuables,
+            "Price": 14320, 
         });
+        logger.logSuccess("CreateSSH")
     }
 
     static Yeetbitchintotrader() //Add to flea and other traders too ig.
@@ -66,7 +72,9 @@ class sshThing
         tradersource[ragfair].assort.items.push(assort_items);
         tradersource[ragfair].assort.barter_scheme["efh_ssh_barter"] = barter_scheme
         tradersource[ragfair].assort.loyal_level_items["efh_ssh_barter"] = 1;
+        logger.logSuccess("Added to Ragfair")
     }
 }
 
-module.exports = sshThing;
+module.exports = sshitem;
+logger.logSuccess("If you read this, your gay.")
