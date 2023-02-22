@@ -2,6 +2,7 @@
 const utility = require('./utility');
 const util = require("util");
 const fileIO = require('./fileIO');
+const serverConfig = require("../../user/configs/server_base.json")
 // Made by TheMaoci ~2019
 
 // colorData[0] -> front, colorData[1] -> back
@@ -107,20 +108,15 @@ class Logger {
     this.log(".", text, "white", "green");
   }
 
-  logDebug(text, isStructData = false) {
-    if (isStructData) {
-      this.log("[DEBUG]", "Data Output:", "black", "white");
-      this.log("LogData", text);
-      return;
-    }
-    this.log("[DEBUG]", text, "black", "white");
+  logDebug(text) {
+    this.log("D", text, "white", "magenta");
   }
 
   logInfo(text) {
     if (!serverConfig.hideInfoLogs) this.log(".", text, "white", "blue");
   }
   logDebug(text) {
-    if (serverConfig.showDebugLogs) this.log(".", text, "white");
+    if (serverConfig.showDebugLogs) this.log("D", text, "white", "magenta");
   }
   logRequest(text, data = "") {
     if (data == "") this.log("", text, "cyan", "black");
