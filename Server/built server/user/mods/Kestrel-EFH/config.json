@@ -1,6 +1,43 @@
 {
 	"poems": true,
-	"unlockTraders": true,
-	"showDebugLogs": true,
-	"highcontrastconsole": false
+	"accessibility": {
+		"highcontrastconsole": false
+	},
+	"debug": {
+		"showDebugLogs": true,
+		"deepdebug": false
+	},
+	"qol": {
+		"unlockTraders": true,
+		"examineAll": true,
+		"adjustAmmoStacks": true,
+		"unlimitedDiscard": true,
+		"ItemRarityThreshold": {
+			"Common": {
+				"Low": 1000,
+				"High": 6000
+			},
+			"Uncommon": {
+				"Low": 6000,
+				"High": 15000
+			},
+			"Rare": {
+				"Low": 15000,
+				"High": 40000
+			},
+			"Epic": {
+				"Low": 40000,
+				"High": 60000
+			},
+			"Mythic": {
+				"Low": 60000,
+				"High": 125000
+			},
+			"Legendary": {
+				"Low": 125000,
+				"High": 500000
+			}
+
+		}
+	}
 }
