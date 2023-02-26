@@ -8,7 +8,7 @@
 		"Side": "Bear",
 		"Voice": "Bear_1",
 		"Level": 33,
-		"Experience": 1373462,
+		"Experience": 1373502,
 		"RegistrationDate": 1666596162,
 		"GameVersion": "standard",
 		"AccountType": 0,
@@ -9214,7 +9214,11 @@
 		"6065880c132d4d12c81fd8da": true,
 		"606587d11246154cad35d635": true,
 		"6065c6e7132d4d12c81fd8e1": true,
-		"5fbbfabed5cb881a7363194e": true
+		"5fbbfabed5cb881a7363194e": true,
+		"57371f8d24597761006c6a81": true,
+		"57371eb62459776125652ac1": true,
+		"57371f2b24597761224311f1": true,
+		"5a17f98cfcdbcb0980087290": true
 	},
 	"ConditionCounters": {
 		"Counters": []
@@ -9280,7 +9284,7 @@
 								"upd": {
 									"StackObjectsCount": 1,
 									"Resource": {
-										"Value": 72.9828
+										"Value": 70.7868
 									}
 								}
 							}

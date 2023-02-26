@@ -6,6 +6,7 @@ const AtlasStone = require("./content/barter/atlas_stone");
 const UnlockTradersClass = require("./configer/unlockTraders.js");
 const Items = require('./QOL/Items.js');
 const QoLInspectInfo = require("./QoL/MoreItemInfo");
+const AddPlayerNameToBotPool = require("./content/Fun/addPlayernameToBotNamePool");
 const config = require("./config.json");
 const EFHMOD = require('./efh-mod');
 
@@ -21,6 +22,8 @@ function onLoadMod() {
   // QOL //
   Items.adjustItems();
   QoLInspectInfo.ItemRarityByColor();
+  QoLInspectInfo.AddPenDamagetoDesc();
+  AddPlayerNameToBotPool.AddNames();
 
 
   if (config.unlockTraders)

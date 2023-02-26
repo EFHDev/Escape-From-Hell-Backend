@@ -7,6 +7,28 @@
 		"showDebugLogs": true,
 		"deepdebug": false
 	},
+	"fun" :{
+		"playerNameTitles" :[
+			"Small Dicked",
+			"Evil",
+			"Weak",
+			"Thirsty",
+			"Horny",
+			"Kinda Alright",
+			"Orbus"
+		],
+		"sidesToAddNamesTo":[
+			"exUsec",
+			"Bear",
+			"Usec",
+			"pmcbot"
+		],
+		"EfhSidesIgnore": [
+			"assaultFollower",
+			"researcherFollower"
+
+		]
+	},
 	"qol": {
 		"unlockTraders": true,
 		"examineAll": true,
