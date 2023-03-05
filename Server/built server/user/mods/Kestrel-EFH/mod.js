@@ -7,6 +7,7 @@ const UnlockTradersClass = require("./configer/unlockTraders.js");
 const Items = require('./QOL/Items.js');
 const QoLInspectInfo = require("./QoL/MoreItemInfo");
 const AddPlayerNameToBotPool = require("./content/Fun/addPlayernameToBotNamePool");
+const CreateIllegallGuns = require("./content/weapons/IllegalModifcations")
 const config = require("./config.json");
 const EFHMOD = require('./efh-mod');
 
@@ -15,6 +16,7 @@ function onLoadMod() {
   // Configs
 
   // Items // nope
+  CreateIllegallGuns.AddWeapons();
   sshItem.onLoadMod(); 
   pda.onLoadMod();
   AtlasStone.onLoadMod();
