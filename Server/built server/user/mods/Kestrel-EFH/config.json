@@ -5,7 +5,7 @@
 	},
 	"debug": {
 		"showDebugLogs": true,
-		"deepdebug": true
+		"deepdebug": false
 	},
 	"fun" :{
 		"playerNameTitles" :[

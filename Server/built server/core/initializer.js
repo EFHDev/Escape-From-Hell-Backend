@@ -345,6 +345,9 @@ class Initializer {
     }
     // logger.logInfo("[Modules] " + loadedModules.slice(0, -2));
   }
+  initializeDiscordRPC() {
+    
+  }
 }
 
 module.exports.initializer = new Initializer();
