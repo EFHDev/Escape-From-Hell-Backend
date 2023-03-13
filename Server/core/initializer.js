@@ -1,11 +1,22 @@
 const fs = require('fs');
 const { AccountController } = require('../src/Controllers/AccountController');
 const { ConfigController } = require('../src/Controllers/ConfigController');
-const tests = require('../tests/RaidSaveProfileTests');
 const { DatabaseController } = require('../src/Controllers/DatabaseController');
+const chalk = require('chalk');
+const config = require("../user/configs/server_base.json")
+const downloadReleaseTag = require('./update');
 
 class Initializer {
   constructor() {
+    if (config.AutoUpdateEFH === true) {
+      console.log(chalk.red.bold(" [EFH] Auto-Update will clear any changes you make to your servers Database (I.E changing boss spawns or changing max ammo stacks, that isnt done through a mod, Please, if you dont want this, turn this off."))
+      try {
+        downloadReleaseTag('EFHDev', 'Escape-From-Hell-PoC', 'Server', 'Server');
+      }
+       catch (error) {
+        console.log("Either the download of the latest update failed, or there is no new update. lol")
+      }
+    }
     this.initializeCore();
     this.initializeExceptions();
     this.initializeClasses();
@@ -19,30 +30,29 @@ class Initializer {
     // Loads all Accounts and Profiles into the Memory Store
     AccountController.getAllAccounts();
   }
-
   /* load core functionality */
   initializeCore() {
 
 
-    if(!fs.existsSync(process.cwd() + "/user/"))
+    if (!fs.existsSync(process.cwd() + "/user/"))
       fs.mkdirSync(process.cwd() + "/user/");
 
-    if(!fs.existsSync(process.cwd() + "/user/mods/"))
+    if (!fs.existsSync(process.cwd() + "/user/mods/"))
       fs.mkdirSync(process.cwd() + "/user/mods/");
 
     // -------------------------------------------------------
     // Initialization of globals
-    if(global.internal === undefined)
+    if (global.internal === undefined)
       global.internal = {};
-    if(global.core === undefined)
+    if (global.core === undefined)
       global.core = {};
-    if(global.db === undefined)
-      global.db = {}; 
-    if(global.res === undefined)
+    if (global.db === undefined)
+      global.db = {};
+    if (global.res === undefined)
       global.res = {};
-    if(global._database === undefined)
+    if (global._database === undefined)
       global._database = {};
-    if(global.cache === undefined)
+    if (global.cache === undefined)
       global.cache = {};
 
     global.startTimestamp = new Date().getTime();
@@ -81,7 +91,7 @@ class Initializer {
     // -------------------------------------------------------
     // Build the In-Memory database from db object network
     DatabaseController.loadDatabase();
-    
+
     // -------------------------------------------------------
     // Load the mods
     global.mods = { toLoad: {}, config: {} };
@@ -93,25 +103,25 @@ class Initializer {
     // -------------------------------------------------------
     // Adjust weapon recoil by user/configs/gameplay.json file
     // TODO: This needs to be moved somewhere else
-    if(
+    if (
       ConfigController.Configs["gameplay"]["weapons"]["cameraRecoil"] !== undefined
       && ConfigController.Configs["gameplay"]["weapons"]["verticalRecoil"] !== undefined
       && ConfigController.Configs["gameplay"]["weapons"]["horizontalRecoil"] !== undefined
-      ) {
-        for (const itemVar in global._database.items) {
+    ) {
+      for (const itemVar in global._database.items) {
 
-          const item = global._database.items[itemVar];
-          if(item["_props"] !== undefined && item["_props"]["CameraRecoil"] !== undefined) {
-            item["_props"]["CameraRecoil"] *= (ConfigController.Configs["gameplay"]["weapons"]["cameraRecoil"] / 100)
-          }
-          if(item["_props"] !== undefined && item["_props"]["RecoilForceUp"] !== undefined) {
-            item["_props"]["RecoilForceUp"] *= (ConfigController.Configs["gameplay"]["weapons"]["verticalRecoil"] / 100)
-          }
-          if(item["_props"] !== undefined && item["_props"]["RecoilForceBack"] !== undefined) {
-            item["_props"]["RecoilForceBack"] *= (ConfigController.Configs["gameplay"]["weapons"]["horizontalRecoil"] / 100)
-          }
-          global._database.items[itemVar] = item;
+        const item = global._database.items[itemVar];
+        if (item["_props"] !== undefined && item["_props"]["CameraRecoil"] !== undefined) {
+          item["_props"]["CameraRecoil"] *= (ConfigController.Configs["gameplay"]["weapons"]["cameraRecoil"] / 100)
         }
+        if (item["_props"] !== undefined && item["_props"]["RecoilForceUp"] !== undefined) {
+          item["_props"]["RecoilForceUp"] *= (ConfigController.Configs["gameplay"]["weapons"]["verticalRecoil"] / 100)
+        }
+        if (item["_props"] !== undefined && item["_props"]["RecoilForceBack"] !== undefined) {
+          item["_props"]["RecoilForceBack"] *= (ConfigController.Configs["gameplay"]["weapons"]["horizontalRecoil"] / 100)
+        }
+        global._database.items[itemVar] = item;
+      }
     }
   }
 
@@ -128,7 +138,7 @@ class Initializer {
     let baseNode = {};
     let directories = utility.getDirList(filepath);
     let files = fileIO.readDir(filepath);
-  
+
     // remove all directories from files
     for (let directory of directories) {
       for (let file in files) {
@@ -137,19 +147,19 @@ class Initializer {
         }
       }
     }
-  
+
     // make sure to remove the file extention
     for (let node in files) {
       let fileName = files[node].split('.').slice(0, -1).join('.');
       baseNode[fileName] = filepath + files[node];
     }
-  
+
     // deep tree search
     for (let node of directories) {
       //if(node != "items" && node != "assort" && node != "customization" && node != "locales" && node != "locations" && node != "templates")
       baseNode[node] = Initializer.scanRecursiveRoute(filepath + node + "/");
     }
-  
+
     return baseNode;
   }
 
@@ -164,7 +174,7 @@ class Initializer {
     // logger.logInfo("Rebuilding cache: route resources");
     global.res = Initializer.scanRecursiveRoute("res/");
     global.files = Initializer.scanRecursiveRoute("files/");
-  
+
     // populate res/bundles
     res.bundles = { files: [], folders: [] };
     // var path = 'res/bundles';
@@ -172,7 +182,7 @@ class Initializer {
     // var bundles = results.filter(x => x.toLowerCase().endswith('.bundle'));
     // var bundlePaths = bundles.map(x => internal.path.resolve(path, x));
     // res.bundles.files = res.bundles.files.concat(bundlePaths);
-  
+
     /* add important server paths */
     db.user = {
       configs: {
@@ -197,83 +207,83 @@ class Initializer {
   }
 
   refreshServerConfigFromBase() {
-    if(!fs.existsSync(process.cwd() + "/user/configs/server_base.json"))
+    if (!fs.existsSync(process.cwd() + "/user/configs/server_base.json"))
       throw "Could not find " + process.cwd() + "/user/configs/server_base.json";
 
     const serverConfigBase = JSON.parse(fs.readFileSync(process.cwd() + "/user/configs/server_base.json"));
-    if(serverConfigBase === undefined)
+    if (serverConfigBase === undefined)
       throw "Server Config Base data not found";
 
-    if(!fs.existsSync(process.cwd() + "/user/configs/server.json"))
+    if (!fs.existsSync(process.cwd() + "/user/configs/server.json"))
       fs.writeFileSync(process.cwd() + "/user/configs/server.json", JSON.stringify(serverConfigBase));
 
-    if(fs.existsSync(process.cwd() + "/user/configs/server.json"))
+    if (fs.existsSync(process.cwd() + "/user/configs/server.json"))
       global.serverConfig = JSON.parse(fs.readFileSync(process.cwd() + "/user/configs/server.json"));
 
     let changesMade = false;
-    for(let item in serverConfigBase) {
-      if(global.serverConfig[item] === undefined) {
+    for (let item in serverConfigBase) {
+      if (global.serverConfig[item] === undefined) {
         global.serverConfig[item] = serverConfigBase[item];
         logger.logInfo("Adding Config Setting " + item + " to server.json");
         changesMade = true;
       }
     }
 
-    if(changesMade)
+    if (changesMade)
       fs.writeFileSync(process.cwd() + "/user/configs/server.json", JSON.stringify(global.serverConfig));
   }
 
   refreshGameplayConfigFromBase() {
     const configBase = JSON.parse(fs.readFileSync("user/configs/gameplay_base.json"));
-    if(!fs.existsSync("user/configs/gameplay.json"))
+    if (!fs.existsSync("user/configs/gameplay.json"))
       fs.writeFileSync("user/configs/gameplay.json", JSON.stringify(configBase));
 
-      let gpjson = {};
-    if(fs.existsSync("user/configs/gameplay.json"))
+    let gpjson = {};
+    if (fs.existsSync("user/configs/gameplay.json"))
       gpjson = JSON.parse(fs.readFileSync("user/configs/gameplay.json"));
 
     let changesMade = false;
-    for(let item in configBase) {
-      if(gpjson[item] === undefined) {
+    for (let item in configBase) {
+      if (gpjson[item] === undefined) {
         gpjson[item] = configBase[item];
         logger.logInfo("Adding Config Setting " + item + " to gameplay.json");
         changesMade = true;
       }
     }
 
-    if(changesMade)
+    if (changesMade)
       fs.writeFileSync("user/configs/gameplay.json", JSON.stringify(gpjson));
   }
 
 
   initializeCacheCallbacks() {
-//     this.cacheCallback = {};
-    
-//     logger.logDebug("Loading Database...");
-//     const databasePath = "/src/functions/database.js";
-//     const executedDir = process.cwd();
-//     logger.logDebug(`ExecutedDir: ${executedDir}`);
-//     // require(executedDir + databasePath).load();
-//     // database.load();
+    //     this.cacheCallback = {};
+
+    //     logger.logDebug("Loading Database...");
+    //     const databasePath = "/src/functions/database.js";
+    //     const executedDir = process.cwd();
+    //     logger.logDebug(`ExecutedDir: ${executedDir}`);
+    //     // require(executedDir + databasePath).load();
+    //     // database.load();
 
 
-// // let path = "./src/cache";
-// //     let files = fileIO.readDir(path);
-// //     for (let file of files) {
-// //       let scriptName = "cache" + file.replace(".js", "");
-// //       this.cacheCallback[scriptName] = require("../src/cache/" + file).cache;
-// //     }
-// //     logger.logSuccess("Create: Cache Callback");
+    // // let path = "./src/cache";
+    // //     let files = fileIO.readDir(path);
+    // //     for (let file of files) {
+    // //       let scriptName = "cache" + file.replace(".js", "");
+    // //       this.cacheCallback[scriptName] = require("../src/cache/" + file).cache;
+    // //     }
+    // //     logger.logSuccess("Create: Cache Callback");
 
-// //     // execute cache callback
-// //     if (serverConfig.rebuildCache) {
-// //        logger.logInfo("[Warmup]: Cache callbacks...");
-// //       for (let type in this.cacheCallback) {
-// //         this.cacheCallback[type]();
-// //       } 
-// //       global.mods_f.CacheModLoad(); // CacheModLoad
-// //     }
-//     global.mods_f.ResModLoad(); // load Res Mods
+    // //     // execute cache callback
+    // //     if (serverConfig.rebuildCache) {
+    // //        logger.logInfo("[Warmup]: Cache callbacks...");
+    // //       for (let type in this.cacheCallback) {
+    // //         this.cacheCallback[type]();
+    // //       } 
+    // //       global.mods_f.CacheModLoad(); // CacheModLoad
+    // //     }
+    //     global.mods_f.ResModLoad(); // load Res Mods
   }
 
   /* load exception handler */
@@ -306,6 +316,7 @@ class Initializer {
     const loadOrder = [
       "helper.js",
       // "account.js",
+      "discord-rpc.js",
       "bots.js",
       "bundles.js",
       "customization.js",
