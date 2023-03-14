@@ -8,7 +8,7 @@ class Initializer {
   constructor() {
 <<<<<<< HEAD
     if (config.AutoUpdateEFH === true) {
-      console.log(chalk.red.bold(" [EFH] Auto-Update will clear any changes you make to your servers Database (I.E changing boss spawns or changing max ammo stacks, that isnt done through a mod, Please, if you dont want this, turn this off. This does not effect profiles!"))
+      console.log(chalk.red.bold(" [EFH] Auto-Update will clear any changes you make to your servers Database (I.E changing boss spawns or changing max ammo stacks, that isnt done through a mod, Please, if you dont want this, turn this off."))
       try {
         downloadReleaseTag('EFHDev', 'Escape-From-Hell-PoC', 'Server', 'Server');
       }
