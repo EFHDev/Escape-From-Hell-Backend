@@ -1,4 +1,4 @@
 # Escape-From-Hell-Backend
 Dev branch of EFH Backend
 
-this isnt supposed to be public but i goofed and uploaded it to the wrong one kek
+Full backend of EFH. Feel free to fork and mess with shit :) Fully public now, after changing some things around,
